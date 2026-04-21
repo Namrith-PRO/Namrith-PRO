@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Namrith-PRO
-- 👀 I’m interested in Sports and CS
+-  I’m interested in Sports,Programming,Creating Websites,Creating Android apps,Standalone Desktop apps (Windows)
 -  I am the developer of DIGITAL FORTRESS website and its affiliates.
 -  [Click me to visit or use my site](https://digitalfortress.pythonanywhere.com/)
 -  Or paste this link in your browser.....
