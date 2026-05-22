@@ -4,3 +4,7 @@
 -  Or paste these link in your browser.....
 -  https://transltr.pages.dev
 -  https://aetherweather.pages.dev
+-  https://bandwidth-burner.pages.dev
+-  https://hardwaretorture.pages.dev
+-  https://e-wave.pages.dev
+-  https://namrithnair.pages.dev
