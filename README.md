@@ -8,3 +8,10 @@
 -  https://hardwaretorture.pages.dev
 -  https://e-wave.pages.dev
 -  https://namrithnair.pages.dev
+-  https://untilzero.pages.dev
+-  https://chronostopwatch.pages.dev
+-  https://typingcoach.pages.dev
+-  https://generateqr.pages.dev
+-  https://keyforger.pages.dev
+-  https://quantumcalculator.pages.dev
+-  https://diskbench.pages.dev
