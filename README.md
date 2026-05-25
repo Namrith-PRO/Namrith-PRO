@@ -15,3 +15,4 @@
 -  https://keyforger.pages.dev
 -  https://quantumcalculator.pages.dev
 -  https://diskbench.pages.dev
+-  https://codesimulator.pages.dev
