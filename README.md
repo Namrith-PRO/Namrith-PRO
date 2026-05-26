@@ -7,7 +7,6 @@
 -  https://bandwidth-burner.pages.dev
 -  https://hardwaretorture.pages.dev
 -  https://e-wave.pages.dev
--  https://namrithnair.pages.dev
 -  https://untilzero.pages.dev
 -  https://chronostopwatch.pages.dev
 -  https://typingcoach.pages.dev
