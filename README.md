@@ -17,3 +17,6 @@
 -  https://diskbench.pages.dev
 -  https://testyourreaction.pages.dev
 -  https://generatebarcode.pages.dev
+-  https://useliveclock.pages.dev
+-  https://chesswithclock.pages.dev
+-  https://digitalfortress-sites.pages.dev
