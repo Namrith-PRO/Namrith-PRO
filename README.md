@@ -19,3 +19,4 @@
 -  https://useliveclock.pages.dev
 -  https://chesswithclock.pages.dev
 -  https://namrithnair.pages.dev
+-  https://studiomixer.pages.dev
