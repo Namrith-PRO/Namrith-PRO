@@ -20,3 +20,4 @@
 -  https://chesswithclock.pages.dev
 -  https://namrithnair.pages.dev
 -  https://studiomixer.pages.dev
+-  https://winerror.pages.dev
