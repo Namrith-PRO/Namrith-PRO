@@ -21,3 +21,6 @@
 -  https://namrithnair.pages.dev
 -  https://studiomixer.pages.dev
 -  https://winerror.pages.dev
+-  https://safeguardkeeper.pages.dev
+-  https://internetlink.pages.dev
+-  https://jwtkit.pages.dev
