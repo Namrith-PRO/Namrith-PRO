@@ -23,3 +23,4 @@
 -  https://safeguardkeeper.pages.dev
 -  https://internetlink.pages.dev
 -  https://jwtkit.pages.dev
+-  https://urlcodec.pages.dev
