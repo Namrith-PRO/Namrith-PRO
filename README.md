@@ -24,3 +24,4 @@
 -  https://internetlink.pages.dev
 -  https://jwtkit.pages.dev
 -  https://urlcodec.pages.dev
+-  https://convertunit.pages.dev
