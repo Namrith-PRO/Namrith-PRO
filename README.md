@@ -26,3 +26,4 @@
 -  https://urlcodec.pages.dev
 -  https://convertunit.pages.dev
 -  https://internationalclock.pages.dev
+-  https://huelinepalette.pages.dev
