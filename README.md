@@ -25,3 +25,4 @@
 -  https://jwtkit.pages.dev
 -  https://urlcodec.pages.dev
 -  https://convertunit.pages.dev
+-  https://internationalclock.pages.dev
