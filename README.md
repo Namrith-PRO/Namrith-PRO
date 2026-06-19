@@ -27,3 +27,4 @@
 -  https://convertunit.pages.dev
 -  https://internationalclock.pages.dev
 -  https://huelinepalette.pages.dev
+-  https://earthstatus.pages.dev
